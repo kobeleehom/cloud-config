@@ -1,1 +1,1 @@
-cloud-config
+the spring cloud config demo
